@@ -1,0 +1,4 @@
+module YouAreSPM {
+    header "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPM.build/YouAreSPM-Swift.h"
+    requires objc
+}

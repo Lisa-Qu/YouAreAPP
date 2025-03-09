@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/master.swiftdeps"
+  },
+  "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/Sources/ConfettiView/ConfettiView.swift": {
+    "dependencies": "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/ConfettiView.d",
+    "object": "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/ConfettiView.swift.o",
+    "swiftmodule": "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/ConfettiView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/ConfettiView.swiftdeps"
+  }
+}

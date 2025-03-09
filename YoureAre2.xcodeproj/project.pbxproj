@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		968B43072D6A7F16009E0092 /* ConfettiView in Frameworks */ = {isa = PBXBuildFile; productRef = 968B43062D6A7F16009E0092 /* ConfettiView */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		96C9D5AC2D622B0F00D193E3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -29,9 +33,22 @@
 		96C9D5B52D622B0F00D193E3 /* YoureAre2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoureAre2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		96B85C542D6A71DD00740670 /* Exceptions for "YoureAre2" folder in "YoureAre2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"ConfettiView-main",
+			);
+			target = 96C9D59A2D622B0D00D193E3 /* YoureAre2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		96C9D59D2D622B0D00D193E3 /* YoureAre2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				96B85C542D6A71DD00740670 /* Exceptions for "YoureAre2" folder in "YoureAre2" target */,
+			);
 			path = YoureAre2;
 			sourceTree = "<group>";
 		};
@@ -52,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				968B43072D6A7F16009E0092 /* ConfettiView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +130,7 @@
 			);
 			name = YoureAre2;
 			packageProductDependencies = (
+				968B43062D6A7F16009E0092 /* ConfettiView */,
 			);
 			productName = YoureAre2;
 			productReference = 96C9D59B2D622B0D00D193E3 /* YoureAre2.app */;
@@ -195,6 +214,9 @@
 			);
 			mainGroup = 96C9D5922D622B0D00D193E3;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				968B43052D6A7F16009E0092 /* XCLocalSwiftPackageReference "YoureAre2/ConfettiView-main" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 96C9D59C2D622B0D00D193E3 /* Products */;
 			projectDirPath = "";
@@ -552,6 +574,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		968B43052D6A7F16009E0092 /* XCLocalSwiftPackageReference "YoureAre2/ConfettiView-main" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = "YoureAre2/ConfettiView-main";
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		968B43062D6A7F16009E0092 /* ConfettiView */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ConfettiView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 96C9D5932D622B0D00D193E3 /* Project object */;
 }

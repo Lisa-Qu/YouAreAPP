@@ -1,0 +1,4 @@
+module YouAreSPMPackageTests {
+    header "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMPackageTests.build/YouAreSPMPackageTests-Swift.h"
+    requires objc
+}

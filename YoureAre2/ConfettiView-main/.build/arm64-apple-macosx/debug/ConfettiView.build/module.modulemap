@@ -1,0 +1,4 @@
+module ConfettiView {
+    header "/Users/lisa.qu/Desktop/YouAre/YoureAre2/ConfettiView-main/.build/arm64-apple-macosx/debug/ConfettiView.build/ConfettiView-Swift.h"
+    requires objc
+}

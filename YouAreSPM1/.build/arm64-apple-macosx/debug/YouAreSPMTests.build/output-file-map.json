@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/master.swiftdeps"
+  },
+  "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/Tests/YouAreSPMTests/Tests.swift": {
+    "dependencies": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/Tests.d",
+    "object": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/Tests.swift.o",
+    "swiftmodule": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/Tests~partial.swiftmodule",
+    "swift-dependencies": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/Tests.swiftdeps"
+  },
+  "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/Tests/YouAreSPMTests/YouAreSPMTests.swift": {
+    "dependencies": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/YouAreSPMTests.d",
+    "object": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/YouAreSPMTests.swift.o",
+    "swiftmodule": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/YouAreSPMTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/lisa.qu/Desktop/YouAre/YouAreSPM1/.build/arm64-apple-macosx/debug/YouAreSPMTests.build/YouAreSPMTests.swiftdeps"
+  }
+}
